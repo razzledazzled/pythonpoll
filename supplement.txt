@@ -11,3 +11,4 @@ urlpatterns = [
     path('', views.index, name='index'),
 ]
 
+https://pusher.com/tutorials/live-poll-python/#communicating-with-the-backend
